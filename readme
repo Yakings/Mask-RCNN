@@ -1,2 +1,4 @@
 Mask R-CNN in tensorflow.
 Unfinished!
+
+When want to use pycocotools, like `import pycocotools`, just add diretory pycocotools to project.
